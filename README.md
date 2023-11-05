@@ -1,4 +1,4 @@
-# -A--Search-and-Probabilistic-Roadmaps-for-Robotic-Navigation-in-Occupancy-Grid-Maps
+# -A*-Search-and-Probabilistic-Roadmaps-for-Robotic-Navigation-in-Occupancy-Grid-Maps
 
 Implements A* search algorithm for efficient route planning in an 8-connected graph representation of occupancy grids.
 Includes a general version of A* search abstracted for use with different graph representations, applicable to both occupancy grids and standard graphs.
